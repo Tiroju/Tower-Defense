@@ -15,14 +15,9 @@ Objectifs intermédiaires :
                             
 Fonctions :
 - avance : Pour faire avancer l'ennemi sur le chemin
-- 
 - zone : Pour savoir si un ennemi entre dans la zone d'attaque de la tour
-- 
 - tir : Si l'ennemi est dans la zone, alors la tour tire
-- 
 - degats : Si l'ennemi est touché, il perd des PV
-- 
 - mort : Si l'ennemi n'a plus de PV il meurt et donne de l'or au joueur
-- 
 - arrive : Si l'ennemi arrive jusqu'à la fin du chemin alors le joueur perd un coeur et l'ennemi disparait
               
