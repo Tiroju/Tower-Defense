@@ -3,9 +3,13 @@
 Objectif : Un jeu Tower Defense avec plusieurs cartes, tours et ennemis et des compétences comme faire apparaitre des soldats pour bloquer les ennemis ou lancer des boules de feu
 
 Objectifs intermédiaires :  - Commencer par une carte simple (ligne droite et un virage) avec 1 ou 2 tours fixes et un type ennemi qui suit le chemin
+                             
                             - Faire le placement des tours selon l'envie du joueur
+                            
                             - Rajouter des cartes, tours et ennemis
+                            
                             - Faire le système de coeurs du joueur et d'or (lâché par l'ennemi) qui permet d'acheter les tours
+                            
                             - Créer les compétences
                             
 Fonctions :   - avance : Pour faire avancer l'ennemi sur le chemin
