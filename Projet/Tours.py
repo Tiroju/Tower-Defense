@@ -287,7 +287,7 @@ class Ennemi(): # classe pour créer les tours
             self.y = 800
             self.vivant = False
             return True
-        elif self.carte == 2 and self.x == 1250 and self.y == 70:
+        elif self.carte == 2 and (self.x == 1250 or self.x == 1252) and self.y == 70:
             self.x = 1400
             self.y = 800
             self.vivant = False
